@@ -1,0 +1,17 @@
+.Title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khakl;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white; 
+    background-color: mediumsoringgreen;
+}
